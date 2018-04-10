@@ -1,7 +1,7 @@
 # R-bookmarks
 整理一些別人的教學或整理的連結，以 R 為主，但也有一些非 R 的連結在內。
 
-## About import/ export data
+## About importing/ exporting data
 
 #### [Extracting PDF Text with R and Creating Tidy Data](https://www.r-bloggers.com/extracting-pdf-text-with-r-and-creating-tidy-data/)
 
@@ -15,12 +15,16 @@
 #### [Should I learn sf or sp for spatial R programming](https://www.r-bloggers.com/should-i-learn-sf-or-sp-for-spatial-r-programming/)
 
 
-## About analysis 
+## About analyzing
 
 ### GLMM
 
 #### [GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html#model-extensions-overdispersion-zero-inflation)
 
+
+## About visualizing
+
+#### [Visualizing geo-spatial data with sf and plotly](https://www.r-bloggers.com/visualizing-geo-spatial-data-with-sf-and-plotly/)
 
 ## About writing function
 
