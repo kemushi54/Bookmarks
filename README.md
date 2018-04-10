@@ -26,6 +26,11 @@
 
 #### [Visualizing geo-spatial data with sf and plotly](https://www.r-bloggers.com/visualizing-geo-spatial-data-with-sf-and-plotly/)
 
+#### [Learning from and improving upon ggplotly conversions](https://blog.cpsievert.me/2018/01/30/learning-improving-ggplotly-geom-sf/)
+
+#### [plotly(github)](https://github.com/ropensci/plotly)
+
+
 ## About writing function
 
 #### [Writing functions for dplyr and ggplot2](https://www.r-bloggers.com/writing-functions-for-dplyr-and-ggplot2-april-2-2018/)
