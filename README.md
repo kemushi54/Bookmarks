@@ -17,7 +17,11 @@
 
 ## About analyzing
 
-### GLMM
+#### [biologyforfun](https://biologyforfun.wordpress.com/)
+
+#### [研究生2.0](https://researcher20.com/2010/10/29/stats-concepts-index/)
+
+#### [15 Types of Regression you should know](https://www.r-bloggers.com/15-types-of-regression-you-should-know/)
 
 #### [GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html#model-extensions-overdispersion-zero-inflation)
 
