@@ -36,7 +36,6 @@
 
 #### [Writing functions for dplyr and ggplot2](https://www.r-bloggers.com/writing-functions-for-dplyr-and-ggplot2-april-2-2018/)
 
-
 ----
 
 ## 坑很深的教學系列...
@@ -53,6 +52,8 @@ Kaggle 的動手實作資料科學免費課程
 #### [成為python數據分析達人的第一課(自學課程)](http://moocs.nccu.edu.tw/course/123/intro)
 政大蔡炎龍老師開設的python手把手課程 政治大學磨課師課程
 
+----
+
 ## 希望有一天能看懂系列(?)
 
 #### [Dynamic Programming](https://www.youtube.com/watch?v=DiAtV7SneRE)
@@ -61,3 +62,8 @@ Kaggle 的動手實作資料科學免費課程
 #### [Microsoft Machine Learning & Data Science Summit 2016 Keynote Session](https://www.youtube.com/watch?v=rHUDJ8RyseQ)
 Microsoft Machine Learning & Data Science Summit 2016 Keynote Session Dr Edward Tufte The Future
 還沒看總之就先放著再說(?)
+
+----
+## 不知該如何分類系列(?)
+
+#### [用數據看台灣](https://www.taiwanstat.com/realtime/)
