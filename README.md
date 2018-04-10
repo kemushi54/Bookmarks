@@ -1,28 +1,33 @@
 # R-bookmarks
 整理一些別人的教學或整理的連結，以 R 為主，但也有一些非 R 的連結在內。
 
-## about import/ export data
+## About import/ export data
 
 #### [Extracting PDF Text with R and Creating Tidy Data](https://www.r-bloggers.com/extracting-pdf-text-with-r-and-creating-tidy-data/)
 
-## abount GIS
 
-#### [Should I learn sf or sp for spatial R programming](https://www.r-bloggers.com/should-i-learn-sf-or-sp-for-spatial-r-programming/)
+## Abount GIS
 
 #### [Simple Features for R](https://cran.r-project.org/web/packages/sf/vignettes/sf1.html#sfc-simple-feature-geometry-list-column)
 
-## Analysis
+#### [Tidy spatial data in R: using dplyr, tidyr, and ggplot2 with sf](http://strimas.com/r/tidy-sf/)
+
+#### [Should I learn sf or sp for spatial R programming](https://www.r-bloggers.com/should-i-learn-sf-or-sp-for-spatial-r-programming/)
+
+
+## About analysis 
 
 ### GLMM
 
 #### [GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html#model-extensions-overdispersion-zero-inflation)
 
 
-## about writing function
+## About writing function
 
 #### [Writing functions for dplyr and ggplot2](https://www.r-bloggers.com/writing-functions-for-dplyr-and-ggplot2-april-2-2018/)
 
 
+----
 
 ## 坑很深的教學系列...
 
