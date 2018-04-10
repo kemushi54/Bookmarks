@@ -30,6 +30,7 @@
 
 #### [plotly(github)](https://github.com/ropensci/plotly)
 
+#### [leaflet for R](https://rstudio.github.io/leaflet/markers.html)
 
 ## About writing function
 
