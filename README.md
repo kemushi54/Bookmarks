@@ -44,8 +44,15 @@
 
 ## 坑很深的教學系列...
 
+### 手把手！
+
 #### [Kaggle 課程](https://www.kaggle.com/learn/overview)
 Kaggle 的動手實作資料科學免費課程
+
+#### [成為python數據分析達人的第一課(自學課程)](http://moocs.nccu.edu.tw/course/123/intro)
+政大蔡炎龍老師開設的python手把手課程 政治大學磨課師課程
+
+### Machine learning
 
 #### [Machine Learning Foundations](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 台大資工系 林軒田老師的機器學習基石 youtube 線上課程
@@ -53,9 +60,7 @@ Kaggle 的動手實作資料科學免費課程
 #### [Machine Learning Techniques](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 台大資工系 林軒田老師的機器學習技法 youtube 線上課程
 
-#### [成為python數據分析達人的第一課(自學課程)](http://moocs.nccu.edu.tw/course/123/intro)
-政大蔡炎龍老師開設的python手把手課程 政治大學磨課師課程
-
+#### [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 ----
 
 ## 希望有一天能看懂系列(?)
@@ -68,6 +73,13 @@ Microsoft Machine Learning & Data Science Summit 2016 Keynote Session Dr Edward 
 還沒看總之就先放著再說(?)
 
 ----
-## 不知該如何分類系列(?)
+## Visualization
+
+#### [淺談資料視覺化以及 ggplot2 實踐](https://leemengtaiwan.github.io/data-visualization-from-matplotlib-to-ggplot2.html)
+ggplot2基礎概念，實用！ 不過真的是淺談...ggplot可以調控的東西太多惹...
+推"這篇雖然打了落落長，但真的只有碰到皮毛（淚）" (淚)
 
 #### [用數據看台灣](https://www.taiwanstat.com/realtime/)
+別人的視覺化範例
+
+#### [The R Graph Gallery](https://www.r-graph-gallery.com/)
