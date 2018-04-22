@@ -14,6 +14,10 @@
 
 #### [Should I learn sf or sp for spatial R programming](https://www.r-bloggers.com/should-i-learn-sf-or-sp-for-spatial-r-programming/)
 
+#### [用 R 來玩玩地圖吧！起手式基礎篇](http://map-testing.blogspot.tw/2016/09/r.html)
+別的大大寫的比較清楚嗚嗚
+
+#### [空間群聚：點資料分析（一）](http://map-testing.blogspot.tw/2016/09/blog-post_26.html)
 
 ## About analyzing
 
