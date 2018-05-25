@@ -29,6 +29,8 @@
 
 #### [GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html#model-extensions-overdispersion-zero-inflation)
 
+#### [R語言與機器學習見面會系列](https://ithelp.ithome.com.tw/users/20103434/ironman/1056?page=2)
+
 
 ## About visualizing
 
