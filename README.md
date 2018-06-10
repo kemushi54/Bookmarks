@@ -6,7 +6,7 @@
 #### [Extracting PDF Text with R and Creating Tidy Data](https://www.r-bloggers.com/extracting-pdf-text-with-r-and-creating-tidy-data/)
 
 
-## Abount GIS
+## About GIS
 
 #### [Simple Features for R](https://cran.r-project.org/web/packages/sf/vignettes/sf1.html#sfc-simple-feature-geometry-list-column)
 
@@ -19,7 +19,12 @@
 
 #### [空間群聚：點資料分析（一）](http://map-testing.blogspot.tw/2016/09/blog-post_26.html)
 
-## About analyzing
+## About data wrangling
+
+#### [你都在公司都在幹啥R？ R語言資料分析經驗分享系列](https://ithelp.ithome.com.tw/articles/10192035)
+資料整理、爬梳、爬蟲、視覺化
+
+## About data analyzing
 
 #### [biologyforfun](https://biologyforfun.wordpress.com/)
 
