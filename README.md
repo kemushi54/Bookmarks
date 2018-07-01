@@ -24,6 +24,9 @@
 #### [你都在公司都在幹啥R？ R語言資料分析經驗分享系列](https://ithelp.ithome.com.tw/articles/10192035)
 資料整理、爬梳、爬蟲、視覺化
 
+#### [R 語言使用者的 Python 學習筆記](https://ithelp.ithome.com.tw/users/20103511/ironman/1077)
+
+
 ## About data analyzing
 
 #### [biologyforfun](https://biologyforfun.wordpress.com/)
@@ -47,9 +50,20 @@
 
 #### [leaflet for R](https://rstudio.github.io/leaflet/markers.html)
 
+#### [淺談資料視覺化以及 ggplot2 實踐](https://leemengtaiwan.github.io/data-visualization-from-matplotlib-to-ggplot2.html)
+ggplot2基礎概念，實用！ 不過真的是淺談...ggplot可以調控的東西太多惹...
+推"這篇雖然打了落落長，但真的只有碰到皮毛（淚）" (淚)
+
+#### [用數據看台灣](https://www.taiwanstat.com/realtime/)
+別人的視覺化範例
+
+#### [The R Graph Gallery](https://www.r-graph-gallery.com/)
+
+
 ## About writing function
 
 #### [Writing functions for dplyr and ggplot2](https://www.r-bloggers.com/writing-functions-for-dplyr-and-ggplot2-april-2-2018/)
+
 
 ----
 
@@ -86,13 +100,3 @@ Microsoft Machine Learning & Data Science Summit 2016 Keynote Session Dr Edward 
 還沒看總之就先放著再說(?)
 
 ----
-## Visualization
-
-#### [淺談資料視覺化以及 ggplot2 實踐](https://leemengtaiwan.github.io/data-visualization-from-matplotlib-to-ggplot2.html)
-ggplot2基礎概念，實用！ 不過真的是淺談...ggplot可以調控的東西太多惹...
-推"這篇雖然打了落落長，但真的只有碰到皮毛（淚）" (淚)
-
-#### [用數據看台灣](https://www.taiwanstat.com/realtime/)
-別人的視覺化範例
-
-#### [The R Graph Gallery](https://www.r-graph-gallery.com/)
