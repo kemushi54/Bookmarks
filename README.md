@@ -88,6 +88,8 @@ Kaggle 的動手實作資料科學免費課程
 #### [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 
 #### [Machine Learning學習日記 — Coursera篇 ](https://medium.com/@ken90242/machine-learning%E5%AD%B8%E7%BF%92%E6%97%A5%E8%A8%98-coursera%E7%AF%87-%E6%A5%94%E5%AD%90-b4843f5d9e49)
+
+#### [DL/ML Tutorial](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 ----
 
 ## 希望有一天能看懂系列(?)
