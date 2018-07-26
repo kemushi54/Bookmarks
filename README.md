@@ -26,6 +26,8 @@
 
 #### [R 語言使用者的 Python 學習筆記](https://ithelp.ithome.com.tw/users/20103511/ironman/1077)
 
+#### [Handling Outliers with R](https://www.r-bloggers.com/handling-outliers-with-r/)
+
 
 ## About data analyzing
 
