@@ -104,5 +104,8 @@ Kaggle 的動手實作資料科學免費課程
 #### [Microsoft Machine Learning & Data Science Summit 2016 Keynote Session](https://www.youtube.com/watch?v=rHUDJ8RyseQ)
 Microsoft Machine Learning & Data Science Summit 2016 Keynote Session Dr Edward Tufte The Future
 還沒看總之就先放著再說(?)
-
 ----
+
+## Others
+
+#### [Huli](https://medium.com/@hulitw)
